@@ -1,4 +1,4 @@
-module github.com/SpaceTent/db
+module github.com/Scansan-properties/db
 
 go 1.21
 
