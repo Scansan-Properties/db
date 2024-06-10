@@ -1,4 +1,4 @@
-module github.com/Scansan-properties/db
+module github.com/Scansan-Properties/db
 
 go 1.21
 
